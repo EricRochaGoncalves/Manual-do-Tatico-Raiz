@@ -17,7 +17,7 @@ Manual tático com visual retrô, simulando um terminal militar. Reúne dicas re
 
 
 ## Link para facilitar sua vida
-
+https://manual-do-tatico-raiz.onrender.com
 
 ## Tecnologias usadas
 
