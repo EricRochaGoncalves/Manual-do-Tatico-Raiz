@@ -1,0 +1,57 @@
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #111;
+  
+  font-family: 'Oswald', monospace;
+  padding: 30px;
+  flex-direction: column;
+  
+}
+
+h1, h2 {
+  color: white;
+  text-align: center;
+}
+
+
+.box {
+  border: 2px solid gray;
+  padding: 15px;
+  margin: 20px 0;
+  background-color: #000;
+  
+  
+}
+.box ul li {
+  text-align: center;
+  color: white;
+}
+
+code {
+  background-color: #222;
+  
+  padding: 5px;
+  display: block;
+  margin-top: 10px;
+  white-space: pre-wrap;
+}
+
+.alerta {
+  color: white;
+  font-weight: bold;
+  border-bottom: 1px solid white;
+  padding: 10px;
+  text-align: center;
+}
+.alerta_02 {
+  color: white;
+  font-weight: bold;
+  
+  padding: 10px;
+  text-align: center;
+}
+
